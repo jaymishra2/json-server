@@ -1,0 +1,20 @@
+{
+  folder1: [{
+    id: 'notes-1',
+    content: 'Testing notes for json-server',
+    timeCreated: '22-06-2022: 16:30:00',
+    timeModified: '22-06-2022: 16:30:00',
+  },
+  {
+    id: 'notes-11',
+    content: 'Testing notes for json-server 22',
+    timeCreated: '22-06-2022: 16:30:00',
+    timeModified: '22-06-2022: 16:30:00',
+  }],
+  folder2: [{
+    id: 'notes-2',
+    content: 'Second notes for json-server',
+    timeCreated: '22-06-2022: 16:32:00',
+    timeModified: '22-06-2022: 16:32:00',
+  }]
+}
