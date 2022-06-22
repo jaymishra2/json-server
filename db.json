@@ -1,22 +1,26 @@
 {
- "notes-table": {
-  "folder1": [{
-    "id": "notes-1",
-    "content": "Testing notes for json-server",
-    "timeCreated": "22-06-2022T16:30:00Z",
-    "timeModified": "22-06-2022T16:30:00Z"
-  },
-  {
-    "id": "notes-11",
-    "content": "Testing notes for json-server 22",
-    "timeCreated": "22-06-2022T16:30:00Z",
-    "timeModified": "22-06-2022T16:30:00Z"
-  }],
-  "folder2": [{
-    "id": "notes-2",
-    "content": "Second notes for json-server",
-    "timeCreated": "22-06-2022T16:32:00Z",
-    "timeModified": "22-06-2022T16:32:00Z"
-  }]
-}
+  "notes-table": {
+    "folder": [
+      {
+        "id": "notes-1",
+        "content": "Testing notes for json-server",
+        "timeCreated": "2022-06-22T17:25:20.677Z",
+        "timeModified": "2022-06-22T17:25:26.677Z"
+      },
+      {
+        "id": "notes-11",
+        "content": "Testing notes for json-server 22",
+        "timeCreated": "2022-06-22T17:26:20.677Z",
+        "timeModified": "2022-06-22T17:26:26.677Z"
+      }
+    ],
+    "folder-test": [
+      {
+        "id": "notes-2",
+        "content": "Second notes for json-server",
+        "timeCreated": "2022-06-22T17:27:25.677Z",
+        "timeModified": "2022-06-22T17:27:28.677Z"
+      }
+    ]
+  }
 }
